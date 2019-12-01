@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\bin\Debug\Lab7.7.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\bin\Debug\Lab7.7.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\bin\Debug\Lab7.7.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\obj\Debug\Lab7.7.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\obj\Debug\Lab7.7.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab7\Lab7.7\obj\Debug\Lab7.7.pdb

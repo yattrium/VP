@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\bin\Debug\Lab14.2.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\bin\Debug\Lab14.2.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\bin\Debug\Lab14.2.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\obj\Debug\Lab14.2.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\obj\Debug\Lab14.2.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab14\Lab14.2\obj\Debug\Lab14.2.pdb

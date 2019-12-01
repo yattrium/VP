@@ -1,0 +1,6 @@
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\bin\Debug\Lab3.5.exe.config
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\bin\Debug\Lab3.5.exe
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\bin\Debug\Lab3.5.pdb
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\obj\Debug\Lab3.5.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\obj\Debug\Lab3.5.exe
+C:\Users\Nastya\source\repos\lab3.1\Lab3.5\obj\Debug\Lab3.5.pdb

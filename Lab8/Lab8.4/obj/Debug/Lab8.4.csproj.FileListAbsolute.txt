@@ -1,0 +1,7 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\bin\Debug\Lab8.4.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\bin\Debug\Lab8.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\bin\Debug\Lab8.4.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\obj\Debug\Lab8.4.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\obj\Debug\Lab8.4.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\obj\Debug\Lab8.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab8\Lab8.4\obj\Debug\Lab8.4.pdb

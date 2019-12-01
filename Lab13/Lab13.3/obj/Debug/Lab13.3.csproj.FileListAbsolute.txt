@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab13\Lab13.3\bin\Debug\Lab13.3.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab13\Lab13.3\bin\Debug\Lab13.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab13\Lab13.3\bin\Debug\Lab13.3.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab13\Lab13.3\obj\Debug\Lab13.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab13\Lab13.3\obj\Debug\Lab13.3.pdb
