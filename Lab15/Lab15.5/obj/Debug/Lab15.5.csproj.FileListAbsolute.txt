@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\bin\Debug\Lab15.5.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\bin\Debug\Lab15.5.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\bin\Debug\Lab15.5.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\obj\Debug\Lab15.5.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\obj\Debug\Lab15.5.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab15\Lab15.5\obj\Debug\Lab15.5.pdb
