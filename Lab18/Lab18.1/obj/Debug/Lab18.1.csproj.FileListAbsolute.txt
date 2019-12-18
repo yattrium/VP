@@ -1,0 +1,6 @@
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\bin\Debug\Lab18.1.exe.config
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\bin\Debug\Lab18.1.exe
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\bin\Debug\Lab18.1.pdb
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\obj\Debug\Lab18.1.csprojAssemblyReference.cache
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\obj\Debug\Lab18.1.exe
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.1\obj\Debug\Lab18.1.pdb

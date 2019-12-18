@@ -1,0 +1,12 @@
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\bin\Debug\Lab18.4.exe.config
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\bin\Debug\Lab18.4.exe
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\bin\Debug\Lab18.4.pdb
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\obj\Debug\Lab18.4.csprojAssemblyReference.cache
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\obj\Debug\Lab18.4.exe
+C:\Users\Nastya\Documents\GitHub\VP\Lab18\Lab18.4\obj\Debug\Lab18.4.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\bin\Debug\Lab18.4.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\bin\Debug\Lab18.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\bin\Debug\Lab18.4.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\obj\Debug\Lab18.4.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\obj\Debug\Lab18.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab18\Lab18.4\obj\Debug\Lab18.4.pdb

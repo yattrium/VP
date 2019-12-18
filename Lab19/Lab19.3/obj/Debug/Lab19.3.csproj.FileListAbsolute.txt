@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.3\bin\Debug\Lab19.3.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.3\bin\Debug\Lab19.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.3\bin\Debug\Lab19.3.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.3\obj\Debug\Lab19.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.3\obj\Debug\Lab19.3.pdb

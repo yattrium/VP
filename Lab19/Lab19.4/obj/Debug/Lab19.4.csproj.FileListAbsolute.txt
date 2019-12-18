@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\bin\Debug\Lab19.4.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\bin\Debug\Lab19.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\bin\Debug\Lab19.4.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\obj\Debug\Lab19.4.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\obj\Debug\Lab19.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab19\Lab19.4\obj\Debug\Lab19.4.pdb
