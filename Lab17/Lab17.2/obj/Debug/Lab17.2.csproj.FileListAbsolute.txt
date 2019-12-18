@@ -1,6 +1,0 @@
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\bin\Debug\Lab17.2.exe.config
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\bin\Debug\Lab17.2.exe
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\bin\Debug\Lab17.2.pdb
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\obj\Debug\Lab17.2.exe
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\obj\Debug\Lab17.2.pdb
-C:\Users\Nastya\Desktop\Лабы\Программирование\Lab17\Lab17.2\obj\Debug\Lab17.2.csprojAssemblyReference.cache
