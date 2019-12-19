@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab20\Lab20.2\bin\Debug\Lab20.2.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab20\Lab20.2\bin\Debug\Lab20.2.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab20\Lab20.2\bin\Debug\Lab20.2.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab20\Lab20.2\obj\Debug\Lab20.2.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab20\Lab20.2\obj\Debug\Lab20.2.pdb

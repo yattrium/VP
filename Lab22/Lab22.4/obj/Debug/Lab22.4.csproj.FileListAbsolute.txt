@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.4\bin\Debug\Lab22.4.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.4\bin\Debug\Lab22.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.4\bin\Debug\Lab22.4.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.4\obj\Debug\Lab22.4.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.4\obj\Debug\Lab22.4.pdb

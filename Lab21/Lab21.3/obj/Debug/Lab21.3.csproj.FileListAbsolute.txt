@@ -1,0 +1,5 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab21\Lab21.3\bin\Debug\Lab21.3.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab21\Lab21.3\bin\Debug\Lab21.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab21\Lab21.3\bin\Debug\Lab21.3.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab21\Lab21.3\obj\Debug\Lab21.3.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab21\Lab21.3\obj\Debug\Lab21.3.pdb

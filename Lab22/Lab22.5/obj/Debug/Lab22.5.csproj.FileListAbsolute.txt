@@ -1,0 +1,6 @@
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\bin\Debug\Lab22.5.exe.config
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\bin\Debug\Lab22.5.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\bin\Debug\Lab22.5.pdb
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\obj\Debug\Lab22.5.csprojAssemblyReference.cache
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\obj\Debug\Lab22.5.exe
+C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\Lab22.5\obj\Debug\Lab22.5.pdb
