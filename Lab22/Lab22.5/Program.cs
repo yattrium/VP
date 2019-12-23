@@ -17,14 +17,10 @@ namespace Lab22._5
             string path = @"C:\Users\Nastya\Desktop\Лабы\Программирование\Lab22\text5.txt";
             string text = File.ReadAllText(path);
             string pattern = @"     ";
-            int k = 0;
             Regex space = new Regex(pattern);
             MatchCollection matches = space.Matches(text);
-            foreach (Match mat in matches)
-            {
-                k++;
-            }
-            Console.Write(k);
+            
+            Console.Write(matches.Count);
             Console.ReadLine();
         }
     }
